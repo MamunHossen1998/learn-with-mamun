@@ -215,7 +215,7 @@ Relevant Information
        ↓
     Answer
 ```
-এটি আপনার CRM-এ একটি AI Knowledge Base বানানোর জন্য ব্যবহার করা যায়।
+এটি CRM-এ একটি AI Knowledge Base বানানোর জন্য ব্যবহার করা যায়।
 #
 ### ১৫.Reranking
 ধরুন search করলে 100টি result পাওয়া গেল।
