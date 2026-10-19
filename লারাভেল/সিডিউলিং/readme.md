@@ -206,7 +206,7 @@ __সতর্কতা:__ একই Application-এর একাধিক Conta
 | দীর্ঘ কাজের জন্য | Job Dispatch করা ভালো | উপযুক্ত |
 | আলাদাভাবে চালু রাখতে হয়? | হ্যাঁ, Scheduler Trigger দরকার | হ্যাঁ, Worker দরকার |
 একটি বাস্তব Workflow: 
-
+![Job and Queue Overflow](../ছবি/overflow.png)
 #### Common Problems এবং Troubleshooting 
 | সমস্যা | কী পরীক্ষা করা উচিত |
 |---|---|
