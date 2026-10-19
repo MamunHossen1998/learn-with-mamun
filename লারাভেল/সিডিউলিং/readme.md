@@ -221,15 +221,19 @@ __সতর্কতা:__ একই Application-এর একাধিক Conta
 | Production-এ কাজ করছে না | .env, File Permission, Command Path এবং Production Logs |
 
 __Scheduled Task আছে কি না__
+
 php artisan schedule:list
 
 __একবার Scheduler চালিয়ে পরীক্ষা__
+
 php artisan schedule:run -v
 
 __Queue-তে কী অবস্থা__
+
 php artisan queue:failed
 
 __Laravel Log দেখুন__
+
 Linux-এ Log দেখতে: 
 ```
 tail -f storage/logs/laravel.log
