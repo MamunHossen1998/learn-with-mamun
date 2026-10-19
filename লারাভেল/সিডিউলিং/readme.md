@@ -11,5 +11,5 @@ Laravel Scheduling হলো Laravel অ্যাপ্লিকেশনের 
 - প্রতি ঘণ্টায় রিপোর্ট ইমেইল।
 - বা প্রতি সপ্তাহে পুরনো ডেটা মুছে ফেলা।
 ## Laravel Scheduling কীভাবে কাজ করে?
-![Scheduling Working Process](../ছবি/ছবি/সিডিউলের কাজের প্রসেস.png)
+![Scheduling Working Process](../ছবি/scheduling-working-process.png)
 
