@@ -561,4 +561,3 @@ Patch deployment সম্পন্ন হয়েছে বলার আগে �
 - PHP branch-এর support lifecycle পর্যালোচনা করা হয়েছে।
 
 __সবচেয়ে গুরুত্বপূর্ণ সিদ্ধান্ত:__ Patch update হয়েছে কি না, তা শুধু php -v, composer audit বা docker ps—কোনো একক কমান্ড দিয়ে নিশ্চিত করা যায় না। সঠিক image identity, patched Runtime, dependency advisory, image scan এবং Production smoke test—সবগুলো মিলিয়ে verification করতে হবে।
-
